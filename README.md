@@ -1,2 +1,3 @@
-# HI, WELLCOME 
-Nibay here for my first entry
+# MyNewRepository
+I am NIBAY
+and I like warm hugs
